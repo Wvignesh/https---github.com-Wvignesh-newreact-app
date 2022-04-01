@@ -1,0 +1,9 @@
+ .home, .services, .contact-us, .sign-up, .products, .about, .not-found{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    height: 90vh;
+ }
+
